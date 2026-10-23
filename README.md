@@ -1,0 +1,14 @@
+# raspite-user 11 RS8338.3339N 0030132734720 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8169
+- codename: raspite
+- flavor: raspite-user
+- release: 11
+- id: RS8338.3339N
+- incremental: 0030132734852
+- tags: amz-p,release-keys
+- fingerprint: Amazon/raspite/raspite:11/RS8338.3339N/0030132734720:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: raspite-user-11-RS8338.3339N-0030132734720-amz-p,release-keys
+- repo: amazon_raspite_dump
