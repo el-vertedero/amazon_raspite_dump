@@ -1,0 +1,6 @@
+service power-hal-1-0 /vendor/bin/hw/vendor.mediatek.hardware.mtkpower@1.0-service
+    class hal
+    disabled
+    capabilities NET_ADMIN
+    user system
+    group system readproc wifi media media_rw camera audio

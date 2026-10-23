@@ -1,0 +1,2 @@
+on property:vendor.all.modules.ready=1
+    insmod /vendor/lib/modules/wmt_drv.ko
